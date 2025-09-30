@@ -1,0 +1,5 @@
+print("Hello world")
+print("Hii")
+print("Hello guys")
+print("sorry guys")
+print("Ello")
